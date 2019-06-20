@@ -1,5 +1,6 @@
 # CartoGo
 ## 样图展示
+![Sample Image of US Cartogram](https://github.com/Cleophile/CartoGo/blob/master/carto_large_result.jpg)  
 
 ## CartoGo使用方法：
 1. 根据获取到的数据，如GDP、人口、星巴克门店个数等等，放入到`us_density.csv`表格中的`total`列下。  
