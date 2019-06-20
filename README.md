@@ -40,6 +40,6 @@
 2. 
 
 ## 联系方式
-如果有建议或疑问，请联系[mailto:1607130090@fudan.edu.cn](16307130090@fudan.edu.cn)  
+如果有建议或疑问，请联系[1607130090@fudan.edu.cn](mailto:16307130090@fudan.edu.cn)  
 
 
