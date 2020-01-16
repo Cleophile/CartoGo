@@ -29,18 +29,14 @@
 包括了presentation的PDF版本的keynote  
 
 ### 参考文献文件夹
-包括了所有的参考文献，具体可参考report  
-
-### 小组贡献
-王天民：carto_go算法的实现：包括Diffusion模型、离散傅里叶变换的推导实现，查找并修改四阶Runge-Kutta算法；thin_plate算法的实现；确认输入输出标准，运行算法成图；Presentation的Keynote制作  
-彭蕾：地图数据查找和解析，包括shape file的获取，地区边界的清晰化处理，采样和标注，地图颜色渲染  
-罗鑫喆：Documentation撰写  
+包括了所有的参考文献，具体可参考report
 
 ## 期望改进
 1. python二维DCT实现  
 2. 
 
 ## 联系方式
-如果有建议或疑问，请联系[1607130090@fudan.edu.cn](mailto:16307130090@fudan.edu.cn)  
+如果有建议或疑问，请联系
+Wang Tianmin [1607130090@fudan.edu.cn](mailto:16307130090@fudan.edu.cn)
 
 
